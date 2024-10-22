@@ -1,7 +1,7 @@
 # Paris-Olympics-2024-Dashboard
 **Olympic Data Dashboard using Looker Studio, BigQuery, and Pandas**
 <br/>
-</br/>This project involves building an interactive dashboard to analyze and visualize Olympic athletes' data using a tech stack comprising Looker Studio, BigQuery, and Pandas. The goal of this project was to scrape, clean, and present key insights into athlete performance based on gender, age, nationality, and discipline.
+This project involves building an interactive dashboard to analyze and visualize Olympic athletes' data using a tech stack comprising Looker Studio, BigQuery, and Pandas. The goal of this project was to scrape, clean, and present key insights into athlete performance based on gender, age, nationality, and discipline.
 <br/>
 **Features:**
 - Medal Analysis: Visualizes the number of medals won, segmented by gender and age, providing insights into performance trends.
